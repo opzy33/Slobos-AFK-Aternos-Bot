@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "opzyyy.aternos.me:54595",
+    "ip": "opzyyy.aternos.me",
     "port": 54595,
     "version": "",
     "try-creative": false
